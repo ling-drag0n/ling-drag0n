@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ling-drag0n)
 -->
 - Hello, I'm ling-drag0n 👋
-- ![ling-drag0n](https://komarev.com/ghpvc/?username=ling-drag0n) 
+- ![ling-drag0n](https://komarev.com/ghpvc/?username=ling-drag0n)
+- 已入驻爱发电 
   
 ## Tags
 - 💬 _Hello World!_ tester
