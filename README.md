@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - Hello, I'm ling-drag0n 👋
 - ![ling-drag0n](https://komarev.com/ghpvc/?username=ling-drag0n)
-- 已入驻爱发电 
+- 已入驻爱发电 https://afdian.com/a/drag0n
   
 ## Tags
 - 💬 _Hello World!_ tester
