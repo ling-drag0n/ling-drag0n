@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - ⚡ ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
 ## Some Statistics About Me
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ling-drag0n)
+![GitHub Stats](https://xykt-github.vercel.app/api?username=ling-drag0n&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
